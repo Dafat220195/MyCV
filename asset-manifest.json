@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MyCV/static/css/main.838a0c69.css",
+    "main.js": "/MyCV/static/js/main.09990fde.js",
+    "static/js/787.9c4083a9.chunk.js": "/MyCV/static/js/787.9c4083a9.chunk.js",
+    "static/media/mainFoto.png": "/MyCV/static/media/mainFoto.e2c56a90a44155ede07c.png",
+    "static/media/UTM-Generator.jpg": "/MyCV/static/media/UTM-Generator.e9eaeb9ce9b95f9813b9.jpg",
+    "index.html": "/MyCV/index.html",
+    "main.838a0c69.css.map": "/MyCV/static/css/main.838a0c69.css.map",
+    "main.09990fde.js.map": "/MyCV/static/js/main.09990fde.js.map",
+    "787.9c4083a9.chunk.js.map": "/MyCV/static/js/787.9c4083a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838a0c69.css",
+    "static/js/main.09990fde.js"
+  ]
+}
